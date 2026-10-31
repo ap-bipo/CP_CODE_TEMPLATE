@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Debug symbols & VS Code runner
+*.dSYM/
+tempCodeRunnerFile*
+
+# C++ binaries & objects
+*.o
+*.obj
+*.out
+*.exe
+a.out
+
