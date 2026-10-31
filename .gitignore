@@ -5,10 +5,10 @@
 *.dSYM/
 tempCodeRunnerFile*
 
-# C++ binaries & objects
+# C++ binaries & objects (chỉ loại bỏ file compiled binary)
 *.o
 *.obj
-*.out
 *.exe
 a.out
 
+# Lưu ý: Các file test (*.INP, *.OUT, *.inp, *.out, *.ans) được giữ lại nguyên vẹn
