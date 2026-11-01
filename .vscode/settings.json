@@ -8,7 +8,7 @@
         "list": "cpp"
     },
     "code-runner.executorMap": {
-        "cpp": "bash /Users/nguyenanphuoc/Desktop/coding/.vscode/run_cpp.sh $dir$fileName"
+        "cpp": "bash \"$workspaceRoot/.vscode/run_cpp.sh\" \"$dir$fileName\""
     },
     "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
